@@ -16,15 +16,4 @@
         tools:layout_editor_absoluteX="158dp"
         tools:layout_editor_absoluteY="457dp" />
 
-    <TextView
-        android:id="@+id/txtViewDisplayLoc"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:layout_alignParentTop="true"
-        android:layout_centerHorizontal="true"
-        android:layout_marginTop="231dp"
-        android:text="Location Data"
-        tools:layout_editor_absoluteX="172dp"
-        tools:layout_editor_absoluteY="237dp" />
-
 </RelativeLayout>
